@@ -7,3 +7,6 @@ D:\Программы\4+\WindowsFormsApplication1\WindowsFormsApplication1\obj\D
 D:\Программы\4+\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\Программы\4+\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\Программы\4+\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Программы\4+\1\3\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Программы\4+\1\3\obj\Debug\WindowsFormsApplication1.exe
+D:\Программы\4+\1\3\obj\Debug\WindowsFormsApplication1.pdb

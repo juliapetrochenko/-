@@ -38,7 +38,7 @@ namespace WindowsFormsApplication1
         {
             textBox1.Text = "";
 
-            label2.Text = "";
+            label2.Text = "приврд";
 
             button1.Visible = true;
             button2.Visible = false;
